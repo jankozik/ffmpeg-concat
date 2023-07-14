@@ -2,15 +2,9 @@
 
 > Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
 
-[![NPM](https://img.shields.io/npm/v/ffmpeg-concat.svg)](https://www.npmjs.com/package/ffmpeg-concat) [![Build Status](https://travis-ci.com/transitive-bullshit/ffmpeg-concat.svg?branch=master)](https://travis-ci.com/transitive-bullshit/ffmpeg-concat) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
-![](https://raw.githubusercontent.com/transitive-bullshit/ffmpeg-concat/master/media/example.gif)
+![](https://raw.githubusercontent.com/jankozik/ffmpeg-concat/master/media/example.gif)
 
 *(example of 9 videos concatenated together with unique transitions)*
-
-*(note that the quality and fps is only poor due to the GIF preview; [here](https://raw.githubusercontent.com/transitive-bullshit/ffmpeg-concat/master/media/example.mp4) is the original)*
-
-- [![china](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **中文/Chinese**](https://github.com/transitive-bullshit/ffmpeg-concat/blob/master/readme.zh.md)
 
 ## Intro
 
@@ -252,16 +246,3 @@ Here are some [gl-transitions](https://gl-transitions.com/) that I've found part
 - [radial](https://gl-transitions.com/editor/Radial)
 - [cube](https://gl-transitions.com/editor/cube)
 - [swap](https://gl-transitions.com/editor/swap)
-
-## Related
-
-- [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - Low-level ffmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)). It allows the use of more advanced and customizable filter graphs, but it requires you to build a custom version of ffmpeg.
-- [gl-transitions](https://gl-transitions.com/) - Collection of GLSL transitions.
-- [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - Underlying ffmpeg wrapper library.
-- [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - A curated list of awesome ffmpeg resources with a focus on JavaScript.
-
-## License
-
-MIT © [Travis Fischer](https://github.com/transitive-bullshit)
-
-Support my OSS work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
